@@ -1,0 +1,6 @@
+{
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.experimental.cloudChanges.autoStore": "onShutdown",
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+    "json.schemaDownload.enable": false
+}
